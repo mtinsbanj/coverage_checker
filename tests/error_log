@@ -1,0 +1,56 @@
+[24-Dec-2024 13:53:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/fobng/public_html/coverage/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/tests/TestCase.php on line 7
+[12-Jan-2025 17:43:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/fobng/public_html/coverage/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/tests/TestCase.php on line 7
+[13-Jan-2025 07:36:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/fobng/public_html/coverage/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/tests/TestCase.php on line 7
+[17-Jan-2025 23:58:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/fobng/public_html/coverage/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/tests/TestCase.php on line 7
+[20-Jan-2025 08:52:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/fobng/public_html/coverage/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/tests/TestCase.php on line 7
+[20-Jan-2025 16:00:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/fobng/public_html/coverage/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/tests/TestCase.php on line 7
+[23-Jan-2025 12:47:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/fobng/public_html/coverage/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/tests/TestCase.php on line 7
+[24-Jan-2025 03:50:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/fobng/public_html/coverage/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/tests/TestCase.php on line 7
+[26-Jan-2025 14:31:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/fobng/public_html/coverage/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/tests/TestCase.php on line 7
+[27-Jan-2025 03:59:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/fobng/public_html/coverage/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/tests/TestCase.php on line 7
+[20-Feb-2025 23:05:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/fobng/public_html/coverage/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/tests/TestCase.php on line 7
+[24-Feb-2025 02:25:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/fobng/public_html/coverage/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/tests/TestCase.php on line 7
+[26-Feb-2025 18:34:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/fobng/public_html/coverage/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/tests/TestCase.php on line 7
+[09-Mar-2025 21:42:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/fobng/public_html/coverage/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/tests/TestCase.php on line 7

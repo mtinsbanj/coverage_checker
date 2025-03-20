@@ -1,0 +1,304 @@
+[24-Dec-2024 21:25:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrustProxies.php on line 8
+[24-Dec-2024 22:42:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Middleware\ValidateSignature" not found in /home/fobng/public_html/coverage/app/Http/Middleware/ValidateSignature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/ValidateSignature.php on line 7
+[25-Dec-2024 00:02:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/fobng/public_html/coverage/app/Http/Middleware/Authenticate.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/Authenticate.php on line 8
+[25-Dec-2024 00:40:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/fobng/public_html/coverage/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[25-Dec-2024 00:42:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrimStrings.php on line 7
+[25-Dec-2024 00:45:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrustHosts.php on line 7
+[25-Dec-2024 05:14:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/fobng/public_html/coverage/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[25-Dec-2024 06:56:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/fobng/public_html/coverage/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[25-Dec-2024 10:01:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Middleware\ValidateSignature" not found in /home/fobng/public_html/coverage/app/Http/Middleware/ValidateSignature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/ValidateSignature.php on line 7
+[27-Dec-2024 13:15:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/fobng/public_html/coverage/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[28-Dec-2024 03:59:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/fobng/public_html/coverage/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[30-Dec-2024 21:04:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrustHosts.php on line 7
+[30-Dec-2024 22:33:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrustProxies.php on line 8
+[31-Dec-2024 00:08:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/fobng/public_html/coverage/app/Http/Middleware/Authenticate.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/Authenticate.php on line 8
+[31-Dec-2024 01:00:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrimStrings.php on line 7
+[31-Dec-2024 01:00:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrustHosts.php on line 7
+[03-Jan-2025 04:55:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/fobng/public_html/coverage/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/EncryptCookies.php on line 7
+[03-Jan-2025 05:38:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrustProxies.php on line 8
+[03-Jan-2025 05:38:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Middleware\ValidateSignature" not found in /home/fobng/public_html/coverage/app/Http/Middleware/ValidateSignature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/ValidateSignature.php on line 7
+[12-Jan-2025 17:32:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrustProxies.php on line 8
+[12-Jan-2025 19:03:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/fobng/public_html/coverage/app/Http/Middleware/Authenticate.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/Authenticate.php on line 8
+[12-Jan-2025 20:26:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrustHosts.php on line 7
+[12-Jan-2025 20:29:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Middleware\ValidateSignature" not found in /home/fobng/public_html/coverage/app/Http/Middleware/ValidateSignature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/ValidateSignature.php on line 7
+[12-Jan-2025 20:46:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/fobng/public_html/coverage/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[12-Jan-2025 22:04:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrustProxies.php on line 8
+[13-Jan-2025 02:02:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/fobng/public_html/coverage/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/EncryptCookies.php on line 7
+[13-Jan-2025 04:01:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/fobng/public_html/coverage/app/Http/Middleware/Authenticate.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/Authenticate.php on line 8
+[13-Jan-2025 07:07:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrimStrings.php on line 7
+[14-Jan-2025 13:49:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrustHosts.php on line 7
+[15-Jan-2025 11:37:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/fobng/public_html/coverage/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[18-Jan-2025 00:29:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrustProxies.php on line 8
+[18-Jan-2025 01:48:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Middleware\ValidateSignature" not found in /home/fobng/public_html/coverage/app/Http/Middleware/ValidateSignature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/ValidateSignature.php on line 7
+[18-Jan-2025 01:48:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/fobng/public_html/coverage/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/EncryptCookies.php on line 7
+[18-Jan-2025 03:51:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/fobng/public_html/coverage/app/Http/Middleware/Authenticate.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/Authenticate.php on line 8
+[18-Jan-2025 06:30:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/fobng/public_html/coverage/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[18-Jan-2025 10:45:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/fobng/public_html/coverage/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[18-Jan-2025 17:04:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/fobng/public_html/coverage/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/EncryptCookies.php on line 7
+[20-Jan-2025 08:58:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/fobng/public_html/coverage/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/EncryptCookies.php on line 7
+[21-Jan-2025 02:28:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/fobng/public_html/coverage/app/Http/Middleware/Authenticate.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/Authenticate.php on line 8
+[21-Jan-2025 02:29:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/fobng/public_html/coverage/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/EncryptCookies.php on line 7
+[21-Jan-2025 02:31:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/fobng/public_html/coverage/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[21-Jan-2025 03:11:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrimStrings.php on line 7
+[21-Jan-2025 03:12:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrustHosts.php on line 7
+[21-Jan-2025 03:14:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrustProxies.php on line 8
+[21-Jan-2025 03:15:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Middleware\ValidateSignature" not found in /home/fobng/public_html/coverage/app/Http/Middleware/ValidateSignature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/ValidateSignature.php on line 7
+[21-Jan-2025 03:17:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/fobng/public_html/coverage/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[21-Jan-2025 08:59:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/fobng/public_html/coverage/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/EncryptCookies.php on line 7
+[21-Jan-2025 23:30:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/fobng/public_html/coverage/app/Http/Middleware/Authenticate.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/Authenticate.php on line 8
+[21-Jan-2025 23:30:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/fobng/public_html/coverage/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/EncryptCookies.php on line 7
+[21-Jan-2025 23:31:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/fobng/public_html/coverage/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[22-Jan-2025 02:10:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrimStrings.php on line 7
+[22-Jan-2025 02:43:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrustHosts.php on line 7
+[22-Jan-2025 02:44:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrustProxies.php on line 8
+[22-Jan-2025 02:45:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Middleware\ValidateSignature" not found in /home/fobng/public_html/coverage/app/Http/Middleware/ValidateSignature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/ValidateSignature.php on line 7
+[22-Jan-2025 03:16:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/fobng/public_html/coverage/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[22-Jan-2025 08:58:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/fobng/public_html/coverage/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/EncryptCookies.php on line 7
+[23-Jan-2025 18:53:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/fobng/public_html/coverage/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/EncryptCookies.php on line 7
+[23-Jan-2025 23:28:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrimStrings.php on line 7
+[24-Jan-2025 05:18:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrustHosts.php on line 7
+[24-Jan-2025 05:28:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Middleware\ValidateSignature" not found in /home/fobng/public_html/coverage/app/Http/Middleware/ValidateSignature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/ValidateSignature.php on line 7
+[24-Jan-2025 05:41:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/fobng/public_html/coverage/app/Http/Middleware/Authenticate.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/Authenticate.php on line 8
+[24-Jan-2025 06:12:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/fobng/public_html/coverage/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[24-Jan-2025 06:13:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/fobng/public_html/coverage/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[24-Jan-2025 06:38:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/fobng/public_html/coverage/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[09-Feb-2025 06:18:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/fobng/public_html/coverage/app/Http/Middleware/Authenticate.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/Authenticate.php on line 8
+[11-Feb-2025 07:46:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrimStrings.php on line 7
+[21-Feb-2025 17:44:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrustHosts.php on line 7
+[21-Feb-2025 17:50:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Middleware\ValidateSignature" not found in /home/fobng/public_html/coverage/app/Http/Middleware/ValidateSignature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/ValidateSignature.php on line 7
+[21-Feb-2025 17:51:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrimStrings.php on line 7
+[27-Feb-2025 19:46:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrustHosts.php on line 7
+[28-Feb-2025 20:05:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/fobng/public_html/coverage/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/EncryptCookies.php on line 7
+[04-Mar-2025 04:48:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrustProxies.php on line 8
+[07-Mar-2025 17:46:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/fobng/public_html/coverage/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/EncryptCookies.php on line 7
+[11-Mar-2025 09:03:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/fobng/public_html/coverage/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/TrustProxies.php on line 8
+[11-Mar-2025 12:09:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/fobng/public_html/coverage/app/Http/Middleware/Authenticate.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/Authenticate.php on line 8
+[18-Mar-2025 17:50:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Middleware\ValidateSignature" not found in /home/fobng/public_html/coverage/app/Http/Middleware/ValidateSignature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fobng/public_html/coverage/app/Http/Middleware/ValidateSignature.php on line 7

@@ -1,0 +1,4 @@
+[21-Nov-2024 08:11:42 UTC] PHP Fatal error:  Uncaught Error: Class "Livewire\Component" not found in F:\Banjo\Cocerage_Checker2.0\Coverage\public_html\coverage\app\Http\Livewire\Home.php:17
+Stack trace:
+#0 {main}
+  thrown in F:\Banjo\Cocerage_Checker2.0\Coverage\public_html\coverage\app\Http\Livewire\Home.php on line 17
