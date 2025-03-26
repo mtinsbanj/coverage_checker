@@ -8,7 +8,7 @@ use Illuminate\Database\Eloquent\Model;
 class Splitter_box extends Model
 {
     use HasFactory;
-    protected $table = 'splitter boxes';
+    protected $table = 'splitterboxes';
     protected $primaryKey = 'gid';
 
     protected $fillable = [
