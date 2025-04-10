@@ -67,7 +67,7 @@
                     {{ $add['formatted_address'] }}
                   </option>
                   @endforeach
-                </select>
+                </select> 
               </div>
               @endif
 
