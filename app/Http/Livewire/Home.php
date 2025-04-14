@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Http\Request;
 use Livewire\LivewireManager;
-use Config;
+use Illuminate\Support\Facades\Config;
 use App\Mail\NotifyUser;
 use Mail;
 use Carbon\Carbon;

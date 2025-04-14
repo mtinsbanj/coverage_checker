@@ -9,10 +9,10 @@ class Splitter_box extends Model
 {
     use HasFactory;
     protected $table = 'splitterboxes';
-    protected $primaryKey = 'gid';
+    protected $primaryKey = 'splitter_B';
 
     protected $fillable = [
-        'gid', 
+        'splitter_B', 
         'latitude', 
         'longitude'
     ];
